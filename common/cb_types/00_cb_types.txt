@@ -20013,7 +20013,6 @@ reconquista_leon = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -20236,7 +20235,6 @@ reconquista_castille = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -20446,7 +20444,6 @@ reconquista_aragon = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -20656,7 +20653,6 @@ reconquista_galicia = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -20873,7 +20869,6 @@ reconquista_beja = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -21081,7 +21076,6 @@ reconquista_granada = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -21289,7 +21283,6 @@ reconquista_cordoba = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -21497,7 +21490,6 @@ reconquista_valencia = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -21705,7 +21697,6 @@ reconquista_navarra = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
@@ -21912,7 +21903,6 @@ reconquista_balearic = {
 
 	can_use_gui = {
 		ROOT = {
-			trait = zealous
 			prisoner = no
 			is_adult = yes
 		}
